@@ -5,7 +5,7 @@ Prediction of positional stability for a Gyroscope incorporated device using Mac
 - [x] Prediction of a positional stability of a gyroscope incorporated device.
 
 ## Learning objective
-- [x] IoT perspective: Understand the nuances in data collection from sensors.
+- [x] IoT perspective: Understand the nuances through own data collection from sensors.
 - [x] Machine learning perspective: Start from basic machine learning algorithm for prediction.
 
 ## Dependencies to use the learnt model
