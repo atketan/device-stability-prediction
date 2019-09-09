@@ -1,5 +1,5 @@
 # Device Stability Prediction
-Prediction of positional stability for a Gyroscope incorporated device using Machine Learning. Given a gyroscopic data, machine learning model is expected to predict whether the device is stable or moving.
+Prediction of positional stability for a Gyroscope incorporated device using Machine Learning. Given a real time gyroscopic data (which consists of noises as well), machine learning model is expected to predict whether the device is stable or moving.
 
 ## Technical objective
 - [x] Prediction of a positional stability of a gyroscope incorporated device.
